@@ -1,14 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-_NOTE: This is a toy package developed as a part of DSCI 524 coursework, done by following the tutorial in the [R Packages](https://r-pkgs.org/whole-game.html#create_package) textbook._
-
-It is not meant to
+_NOTE: This is a toy package developed as a part of DSCI 524 coursework, done by following the tutorial in the [R Packages](https://r-pkgs.org/whole-game.html#create_package) textbook.It is not meant to
 actually be useful. If you want a package for factor handling, please
 see [stringr](https://stringr.tidyverse.org),
 [stringi](https://stringi.gagolewski.com/),
 [rex](https://cran.r-project.org/package=rex), and
-[rematch2](https://cran.r-project.org/package=rematch2).
+[rematch2](https://cran.r-project.org/package=rematch2)._
 
 # regexcite
 
